@@ -1,0 +1,22 @@
+{
+  "name": "tdl_ss_web_aut_final_part_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdlOlivers/TDL_SS_WEB_AUT_FINAL_PART_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tdlOlivers/TDL_SS_WEB_AUT_FINAL_PART_1/issues"
+  },
+  "homepage": "https://github.com/tdlOlivers/TDL_SS_WEB_AUT_FINAL_PART_1#readme",
+  "devDependencies": {
+    "cypress": "10.3"
+  }
+}
